@@ -5,15 +5,7 @@ The objective was to analyze a sample phishing email and identify signs of malic
 
 What I Did -
 
-Created and analyzed a realistic phishing email sample
-Examined:
-  Spoofed sender address
-  Email header discrepancies
-  Suspicious URLs and file attachments
-  Urgent or threatening language
-  Grammar and formatting issues
-  Summarized key phishing traits found in the email
-
+Created and analyzed a realistic phishing email sample. Examined: Spoofed sender address, Email header discrepancies, Suspicious URLs and file attachments, Urgent or threatening language, Grammar and formatting issues, Summarized key phishing traits found in the email
 
 
 Files Included
