@@ -18,10 +18,7 @@ Examined:
 
 Files Included
 
-phishing_email_sample txt
-email_headers_sample.txt
-Report listing red flags found in the email
-Screenshots of email or tool output
+phishing_email_sample txt, email_headers_sample.txt, Reports listing red flags found in the email & Screenshots of email or tool output
 
 
 Tools Used :
