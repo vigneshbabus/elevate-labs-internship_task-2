@@ -26,7 +26,7 @@ Screenshots of email or tool output
 
 Tools Used :
 
-[MXToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
+MXToolbox Email Header Analyzer
 
 
 Summary :
