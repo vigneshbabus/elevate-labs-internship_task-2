@@ -1,0 +1,19 @@
+From: support@amɑzon-secure.com
+To: user@example.com
+Subject: ACTION REQUIRED: Your Amazon Account Has Been Locked
+
+Dear Customer,
+
+We've detected suspicious login attempts on your Amazon account from an unrecognized device.  
+To secure your account, please verify your identity immediately using the secure link below:
+
+👉 https://amɑzon-verify-info.com/login
+
+If you do not respond within 12 hours, your account will be PERMANENTLY disabled for security reasons.
+
+Please fill out the attached document and follow the instructions carefully.
+
+Thank you,  
+Amazon Account Protection Team
+
+Attachment: Account_Verification_Form.zip

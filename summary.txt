@@ -1,0 +1,9 @@
+SUMMARY :
+
+Spoofed Email - amɑzon-secure.com looks like Amazon
+Header issues - SPF failed, no DKIM
+Suspicious links - Hover link is fake
+Threatening tone - Mentions permanent lockout
+Fake attachment - Likely contains malware
+Grammar errors - Slight but present
+

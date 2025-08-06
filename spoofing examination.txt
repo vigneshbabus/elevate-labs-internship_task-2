@@ -1,0 +1,9 @@
+support@amɑzon-secure.com
+
+Looks like Amazon, but:
+
+Uses “ɑ” (Unicode Latin small letter alpha) instead of normal "a"
+
+Domain is not the real amazon.com
+
+Clearly spoofed
